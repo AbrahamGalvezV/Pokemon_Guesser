@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AbrahamGalvezV.github.io/Poke_API",
+  "homepage": "https://AbrahamGalvezV.github.io/PokemonGuesser",
+
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
