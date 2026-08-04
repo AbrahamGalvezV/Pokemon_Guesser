@@ -127,7 +127,7 @@ Cuando se consuman las tres vidas aparecerá la pantalla **Game Over**, mostrand
 
 Puedes probar el juego directamente desde GitHub Pages:
 
-**https://abrahamgalvezv.github.io/Poke_API/**
+**https://abrahamgalvezv.github.io/Pokemon_Guesser/**
 
 ---
 
